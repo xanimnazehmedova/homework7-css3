@@ -1,0 +1,40 @@
+Text:
+1.1. Verilmiş bir <p> elementinin yazı rəngini qırmızı edin.
+1.2. Bütün <h1> başlıqlarını mavi və qalın (bold) göstərin.
+1.3. Linklərin altıxətini (underline) deaktiv edin və hover olarkən yaşıl rəng verin.
+1.4. Veb səhifədə bütün paragraf yazılarını Verdana fontuna dəyişin.
+Font:
+2.1. Bir <div> elementinin yazı ölçüsünü 24px edin.
+2.2. Bütün h2 elementlərinin yazı tərzini italic edin.
+2.3. Veb səhifədəki bütün başlıqların line-height dəyərini 1.5 edin.
+2.4. Linklərin fontunu Arial və yazı ölçüsünü 14px təyin edin.
+Background:
+3.1. Bir <section> elementinə gradient fon verin.
+3.2. Səhifənin fon rəngini #f4f4f4 edin.
+3.3. Bir <div> elementinə şəkil fonu əlavə edin və mərkəzdə yerləşdirin.
+3.4. Hover olarkən bir elementin fon rəngini dəyişdirin.
+Padding:
+4.1. Bir <div> elementinin iç boşluqlarını 20px edin.
+4.2. Yalnız sol və sağ tərəfdən padding verin (10px).
+4.3. Bir <button> elementinə fərqli tərəflər üçün padding tətbiq edin (yuxarı: 5px, sağ: 15px, aşağı: 5px, sol: 15px).
+4.4. İç içə yerləşdirilmiş elementlərə müxtəlif padding verərək fərqləndirin.
+Margin:
+5.1. Bir <h3> elementinə 30px margin verin.
+5.2. Bir elementin yuxarı və aşağı tərəflərinə auto margin verərək mərkəzə gətirin.
+5.3. Linklərin sağ tərəfinə 15px margin əlavə edin.
+5.4. Səhifədə bir elementə margin: 0 auto; verərək ortalayın.
+Border:
+6.1. Bir <div> elementinə 3px qalınlığında, qara sərhəd verin.
+6.2. Yalnız alt sərhəd verin (border-bottom).
+6.3. Bütün şəkil elementlərinə yuvarlaq künclər (border-radius: 10px) tətbiq edin.
+6.4. Formanın giriş sahəsinə (input) 2px-lik qırmızı sərhəd verin.
+Outline:
+7.1. Fokusda olan <input> sahəsinə mavi outline əlavə edin.
+7.2. Bir <button> elementinə 2px-lik boz outline verin.
+7.3. <div> hover olarkən fərqli rəngdə outline görünsün.
+7.4. Outline qalınlığını 5px edin və rəngini green edin.
+Overflow:
+8.1. Bir <div> elementinin daşan hissələrini gizlədin (overflow: hidden).
+8.2. Mətnin daşdığı yerdə scroll çıxarın (overflow: scroll).
+8.3. Yatay daşan məzmunu avtomatik gizlədin (overflow-x: auto).
+8.4. Overflow dəyərini visible edin və nəticəni müşahidə edin.
